@@ -13,6 +13,10 @@ Now I am learning <b>React</b> and I am trying to make a project with the help o
 ## *Used Resources*
 * *React - The Complete Guide (incl Hooks, React Router, Redux) course from Udemy*
 
+## *My Notes*
+* *Children props ensures that displaying whatever you include between the opening and closing tags when invoking a component.*
+* *In this project, we reduced the code crowed by keeping similar CSS codes in a component.*
+
 ### *PROJECT VİEW:*
 
 #### *1st:*
